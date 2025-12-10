@@ -25,5 +25,7 @@
 </div><br/>
 
 <p>
-  Com uma sólida experiência em projetos de front-end, estou empolgado em compartilhar que estou mergulhando no fascinante mundo da realidade aumentada. Atualmente, estou dedicando meu tempo ao estudo e desenvolvimento de incríveis filtros para Instagram e Facebook, explorando novas dimensões de interatividade e criatividade. Mal posso esperar para aplicar essas habilidades inovadoras em futuros projetos!
+  Com experiência em diferentes linguagens de programação, estou aprofundando meus estudos em áreas que me motivam cada vez mais. Já trabalhei com Python, JavaScript para sites e projetos de realidade aumentada, além de GDScript para criação de jogos e um pouco de Java para aplicativos.
+Também tive experiência profissional na Reptec, onde desenvolvi responsabilidade e organização.
+Atualmente, estou focado em aprender mais e evoluir como programador, com o objetivo de futuramente cursar Ciência da Computação e seguir carreira na área de Computação Quântica, que é algo que me fascina.
 </p>
